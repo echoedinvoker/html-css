@@ -12,7 +12,8 @@
     - **Blind** people can't see the picture, but their browser reads out the alt description.
     - When an image cannot be loaded for some reason, the alt description is used instead.
 - We can use the attribute **width** to adjust the image size.
-  - There is also an attribute **height**, but it will be automatically adjusted according to the ratio of the original image, so there is no need to use it unless you need to change the original image length and width ratio.
+  - There is also an attribute **height**, but it will be **automatically adjusted** according to the ratio of the original image.
+    - so there is no need to use it unless you need to change the original image length and width **ratio**.
 
 ## **Attributes for other elements**
 
