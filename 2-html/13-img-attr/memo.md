@@ -18,6 +18,6 @@
 
 ![alt](pic/bandicam%202022-10-26%2014-15-08-258.jpg)
 
-- The above is a demonstration of the attributes of some elements other than img.
+- The above is demonstration of the **attributes** of some elements other than img.
 - **meta** means **metadata**.
   - **metadata** means data of data.
