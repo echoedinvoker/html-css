@@ -9,18 +9,22 @@
 ![Alt link to outside](pic/bandicam%202022-10-26%2016-05-05-056.jpg)
 
 - **a** means **anchor**.
-- In html, links to external pages or internal pages are treated as anchors.
+- In html, links to **external pages** or **internal pages** are all treated as **anchors**(it means use the same element).
 
 ## **Links in the Paragraph**
 
 ![Alt link in the paragraph](pic/bandicam%202022-10-26%2016-08-29-909.jpg)
 
-- In html, the presence or absence of line breaks is determined by the element type.
-- The content in an element will automatically be trimmed.
+- In html, the presence or absence of **line breaks** is determined by the element type.
+- The content in an element will automatically be **trimmed**.
 
 ## **Open Link in the New Tag**
 
+> The anchor element has another attribute **target** that determines how the page it points to is rendered.
+
 ![alt](pic/bandicam%202022-10-26%2016-32-10-870.jpg)
+
+- To open a page in a new tag, use target="\_blank".
 
 ![alt](pic/bandicam%202022-10-26%2016-33-20-758.jpg)
 
@@ -36,7 +40,11 @@
 
 ![Alt link without href](pic/bandicam%202022-10-26%2016-16-34-927.jpg)
 
+- So only anchor element, content does not become link, must have attribute **href**.
+
 ![Alt placeholder of href](pic/bandicam%202022-10-26%2016-18-36-165.jpg)
+
+- If you haven't decided which page you want to point to, you can use **#** to be placeholder.
 
 ## **Two more Links for following lectures**
 
