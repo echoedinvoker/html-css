@@ -18,6 +18,8 @@
 - In html, the presence or absence of **line breaks** is determined by the element type.
 - The content in an element will automatically be **trimmed**.
 
+The above two reasons are why we can't put the contents directly in the body, but must use various elements to wrap it.
+
 ## **Open Link in the New Tag**
 
 > The anchor element has another attribute **target** that determines how the page it points to is rendered.
