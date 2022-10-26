@@ -1,3 +1,5 @@
+# **_Link to Outside_**
+
 ![Alt need](pic/bandicam%202022-10-26%2015-57-29-762.jpg)
 
 ![Alt google](pic/bandicam%202022-10-26%2015-59-54-445.jpg)
@@ -7,6 +9,8 @@
 ![Alt link to outside](pic/bandicam%202022-10-26%2016-05-05-056.jpg)
 
 ![Alt link in the paragraph](pic/bandicam%202022-10-26%2016-08-29-909.jpg)
+
+# **_Link to Internal Page_**
 
 ![Alt create new page html](pic/bandicam%202022-10-26%2016-12-35-979.jpg)
 
