@@ -20,6 +20,7 @@
 - Put the CSS codes completely in another file.
   - This is the way we should use, but if you just need to make a small page quickly, you are still allowed to use the internal way.
 - You can see that the style on the page is not yet up, because now the html and css are divided into different files, so you still need to make a **link**.
+- The css file only **requires the extension to be css**, with an **arbitrary name**, but the lecturer prefers to name it style.css.
 
 ![Alt link](pic/bandicam%202022-11-02%2000-04-22-601.jpg)
 
