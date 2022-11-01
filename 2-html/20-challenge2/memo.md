@@ -1,5 +1,3 @@
-## **Goal sample**
-
 ![Alt goal](pic/bandicam%202022-10-31%2016-45-16-738.jpg)
 
 - Above is the final result of the challenge we need to complete.
