@@ -12,6 +12,8 @@
 ![Alt related-author](pic/04.png)
 ![Alt use class selector](pic/05.png)
 
+- If the class name has more than one word, it is conventional to use the **dash** to connect.
+
 ## **Multiple selectors effect same element, isn't it conflict?**
 
 ![Alt conflict?](pic/06.png)
