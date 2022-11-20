@@ -16,15 +16,17 @@
 
 ![Alt VS Code color picker](pic/06.jpg)
 
+- We usually use **color picker** to select colors or use previously used colors.
+
 ## **Color for Multiple Elements**
 
 ![Alt h2 h3 also want h1 color](pic/08.jpg)
 
 ![Alt use list selector to set color to multiple elements](pic/09.jpg)
 
-![Alt result: h1 h2 h3 have same color](pic/10.jpg)
-
 ## **Color for other text**
+
+![Alt result: h1 h2 h3 have same color](pic/10.jpg)
 
 ![Alt use list selector to set color (detail)](pic/11.jpg)
 
@@ -44,7 +46,11 @@
 
 ![Alt set aside's background color](pic/17.jpg)
 
+- This feature is convenient because we usually don't want to use too many kinds of colors on a page or a web site.
+
 ![Alt set aside's border](pic/18.jpg)
+
+- However, the current result is a bit different from what we want. We don't want the border to appear on the left and right side, so we have to use **variants of the border property**.
 
 ![Alt border's vibrant properties](pic/19.jpg)
 
