@@ -30,6 +30,8 @@
 
 ![Alt use list selector to set color (detail)](pic/11.jpg)
 
+- This **style overwritten** situation requires special attention, and we will have a special lecture on this topic.
+
 ## **Background Color Only for Main Header**
 
 ![Alt want main header have gray background](pic/12.jpg)
@@ -57,3 +59,5 @@
 ## **Color for Whole Page**
 
 ![Alt style to effect whole page and predefined color](pic/20.jpg)
+
+- Related Posts can keep the gray background also because of the **style overwritten**.
