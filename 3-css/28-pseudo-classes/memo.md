@@ -14,19 +14,29 @@
 
 ## **other psuedo class**
 
+### _last-child_
+
 ![Alt :last-child](pic/06.jpg)
 
 ![Alt result](pic/07.jpg)
+
+### _nth-child_
 
 ![Alt :nth-child with number](pic/08.jpg)
 
 ![Alt result](pic/09.jpg)
 
+### _nth-child with keyword_
+
 ![Alt :nth-child with keyword](pic/10.jpg)
 
 ![Alt result](pic/11.jpg)
 
+- This is a very good function, often seen in the form many people use it.
+
 ## **misunderstand about usage of psuedo class**
+
+> Here are the parts that most people misuse when using the previous psuedo classes.
 
 ![Alt purpose: 1st p in article](pic/12.jpg)
 
