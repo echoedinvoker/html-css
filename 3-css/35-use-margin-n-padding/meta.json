@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/3-css/35-use-margin-n-padding/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "3. CSS Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "35. Using Margins and Paddings",
+    "video.length": 22,
+    "time.comsuming": 88,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-03T08:19:56Z",
     "tag": [
-      "css"
+      "css","margin","padding","list","reset","margin-bottom","distance","color","block","collapse"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512144#content",
+    "description": "Practical use of margin and padding."
   }
 
