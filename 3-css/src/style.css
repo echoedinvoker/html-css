@@ -1,11 +1,13 @@
-h1,
-h2,
-h3,
-h4,
-p,
-li {
-  font-family: sans-serif;
+* {
+  border-top: 10px solid blue;
+}
+
+
+body {
   color: #444;
+  font-family: sans-serif;
+
+  border-top: 10px solid red;
 }
 
 h1,
@@ -127,4 +129,8 @@ a:active {
 
 a {
   color: red !important;
+}
+
+nav {
+  font-size: 48px;
 }
