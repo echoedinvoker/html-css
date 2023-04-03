@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/3-css/30-use-chrome-devtool/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "3. CSS Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "30. Using Chrome DevTools",
+    "video.length": 8,
+    "time.comsuming": 31,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-03T02:40:23Z",
     "tag": [
       "css"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512130#content",
+    "description": "Learn how to use Chrome's DevTool."
   }
 
