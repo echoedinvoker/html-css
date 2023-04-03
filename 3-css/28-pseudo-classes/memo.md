@@ -20,6 +20,8 @@
 
 ![Alt result](pic/07.jpg)
 
+- We can find that we don't need to set the class in HTML at all, we can directly use the psuedo class to catch the element we want, it save lots of time.
+
 ### _nth-child_
 
 ![Alt :nth-child with number](pic/08.jpg)
