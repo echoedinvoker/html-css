@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/3-css/29-styling-hyperlinks/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "3. CSS Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "29. Styling Hyperlinks",
+    "video.length": 10,
+    "time.comsuming": 49,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-03T02:05:00Z",
     "tag": [
-      "css"
+      "css","hyperlink","anchor","psuedo","class","link","href"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512126#content",
+    "description": "Explains how to do styling for links(anchors)."
   }
 
