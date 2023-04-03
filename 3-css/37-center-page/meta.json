@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/3-css/37-center-page/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "3. CSS Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "37. Centering our Page",
+    "video.length": 8,
+    "time.comsuming": 23,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-03T22:32:33Z",
     "tag": [
-      "css"
+      "css","center","page"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512152#content",
+    "description": "Explain how to center our page."
   }
 
