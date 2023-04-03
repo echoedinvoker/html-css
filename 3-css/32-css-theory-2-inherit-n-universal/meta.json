@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/3-css/32-css-theory-2-inherit-n-universal/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "3. CSS Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "32. CSS Theory #2: Inheritance & Universal Selector",
+    "video.length": 15,
+    "time.comsuming": 54,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-03T05:16:52Z",
     "tag": [
-      "css"
+      "css", "inheritance", "universal", "selector", "global"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512138#content",
+    "description": "Description of the inheritance of style properties and universal selector."
   }
 
