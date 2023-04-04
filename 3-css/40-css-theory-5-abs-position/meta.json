@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/3-css/40-css-theory-5-abs-position/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "3. CSS Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "40. CSS Theory #5: Absolute Positioning",
+    "video.length": 16,
+    "time.comsuming": 48,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-04T03:28:27Z",
     "tag": [
-      "css"
+      "css","position","absolute","relative","flow"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512162#content",
+    "description": "Describe the two ways to position the element: relative and absolute."
   }
 

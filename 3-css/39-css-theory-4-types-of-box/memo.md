@@ -4,6 +4,8 @@
 
 ![Alt concept of inline](pic/02.jpg)
 
+- In fact, img and button are inline-block, not inline element.
+
 ## **Inline element**
 
 ![Alt inline: background-color to check area](pic/03.jpg)
