@@ -19,7 +19,7 @@ body {
   background-color: #f7f7f7;
   padding: 20px 40px;
   margin-bottom: 60px;
-  height: 100px;
+  /* height: 80px; */
 }
 
 h1,
@@ -157,3 +157,16 @@ a:active {
   width: 50%; 
 }
 
+nav a:link {
+  /* background-color: red; */
+  /* margin: 20px; */
+  /* padding: 20px; */
+  /* display: block; */
+  display: inline-block;
+  margin-right: 15px;
+  margin-top: 10px;
+}
+
+nav a:link:last-child {
+  margin-right: 0px;
+}
