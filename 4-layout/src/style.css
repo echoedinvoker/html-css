@@ -10,7 +10,8 @@ body {
 }
 
 .container {
-  width: 800px;
+  /* width: 800px; */
+  width: 1200px;
   margin: 0 auto;
 }
 
@@ -210,13 +211,27 @@ nav {
   float: right;
 }
 
-/* .clearfix { */
-/*   clear: both; */
-/* } */
-
-/* .main-header::after { */
 .clearfix::after {
   content: "";
   clear: both;
   display: block;
+}
+
+
+article {
+  /* background-color: red; */
+  /* width: 900px; */
+  width: 800px;
+  float: left;
+}
+
+aside {
+  /* background-color: blue; */
+  width: 300px;
+  float: right;
+}
+
+footer {
+  /* background-color: yellow; */
+  clear: both;
 }
