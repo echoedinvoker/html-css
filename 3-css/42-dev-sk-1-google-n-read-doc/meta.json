@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/3-css/42-dev-sk-1-google-n-read-doc/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "3. CSS Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "42. Developer Skill #1: Googling and Reading Documentation",
+    "video.length": 12,
+    "time.comsuming": 47,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-04T07:50:12Z",
     "tag": [
-      "css"
+      "css","google","document","stackover"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512170#content",
+    "description": "Explain that we don't need to remember every property in order to use CSS, you can find the answer on the web."
   }
 
