@@ -41,9 +41,25 @@
 
         /* FLEXBOX */
         display: flex;
-        align-items: stretch;
-        justify-content: space-between;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 30px;
       }
+
+      .el--5 {
+        align-self: flex-start;
+        order: -1;
+      }
+
+      .el--7 {
+        align-self: stretch;
+        order: 1;
+      }
+
+      .el--6 {
+        order: 2;
+      }
+
     </style>
   </head>
   <body>
