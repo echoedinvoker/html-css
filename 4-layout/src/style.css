@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -68,6 +69,7 @@ h4 {
   font-size: 20px;
   text-transform: uppercase;
   text-align: center;
+  margin-bottom: 20px;
 }
 
 p {
@@ -112,6 +114,7 @@ footer p {
 
 .related {
   list-style: none;
+  margin-left: 0;
 }
 
 ul,ol {
@@ -219,19 +222,16 @@ nav {
 
 
 article {
-  /* background-color: red; */
-  /* width: 900px; */
-  width: 800px;
+  width: 825px;
   float: left;
 }
 
 aside {
-  /* background-color: blue; */
   width: 300px;
   float: right;
+  padding: 30px 35px;
 }
 
 footer {
-  /* background-color: yellow; */
   clear: both;
 }
