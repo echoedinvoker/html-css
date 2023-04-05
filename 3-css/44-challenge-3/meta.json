@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/tree/master/3-css/44-challenge-3",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "3. CSS Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "44. CHALLENGE #3",
+    "video.length": 20,
+    "time.comsuming": 60,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-05T01:53:45Z",
     "tag": [
-      "css"
+      "css","challenge","color","block"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512178#content",
+    "description": "CHALLENGE #3"
   }
 
