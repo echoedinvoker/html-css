@@ -210,3 +210,13 @@ nav {
   float: right;
 }
 
+/* .clearfix { */
+/*   clear: both; */
+/* } */
+
+/* .main-header::after { */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: block;
+}
