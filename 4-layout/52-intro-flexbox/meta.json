@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/4-layout/52-intro-flexbox/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "52. Introduction to Flexbox",
+    "video.length": 10,
+    "time.comsuming": 41,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-05T08:29:42Z",
     "tag": [
-      "css","layout"
+      "css","layout","flexbox","intro","center","align"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512242#content",
+    "description": "Introducing the flexbox with direct horizontal and vertical alignment using flexbox."
   }
 
