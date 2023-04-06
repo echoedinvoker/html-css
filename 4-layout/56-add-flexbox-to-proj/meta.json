@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/4-layout/56-add-flexbox-to-proj/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "56. Adding Flexbox to Our Project",
+    "video.length": 20,
+    "time.comsuming": 100,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-06T01:53:07Z",
     "tag": [
-      "css","layout"
+      "css","layout","project","practice","flexbox"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512252#content",
+    "description": "adding flexbox to our project"
   }
 
