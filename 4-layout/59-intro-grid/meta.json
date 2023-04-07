@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/4-layout/59-intro-grid/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "59. Introduction to CSS Grid",
+    "video.length": 11,
+    "time.comsuming": 50,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-07T01:18:28Z",
     "tag": [
-      "css","layout"
+      "css","layout","grid","intro"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512260#content",
+    "description": "Introducing grid layout, defining its column and row sizes and gaps."
   }
 
