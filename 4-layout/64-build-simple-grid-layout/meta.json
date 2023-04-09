@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/4-layout/64-build-simple-grid-layout/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "64. Build a Simple Grid Layout",
+    "video.length": 16,
+    "time.comsuming": 66,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-09T05:22:27Z",
     "tag": [
-      "css","layout"
+      "css","layout","grid","page","layout","space","margin"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512278#content",
+    "description": "Use grid for project to perform page layout instead."
   }
 
