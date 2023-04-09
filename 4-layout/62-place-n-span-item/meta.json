@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/4-layout/62-place-n-span-item/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "4. Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "62. Placing and Spanning Grid Items",
+    "video.length": 13,
+    "time.comsuming": 46,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-07T03:54:15Z",
     "tag": [
-      "css","layout"
+      "css","layout","place","span","item","grid","manually"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512270#content",
+    "description": "Manually specify the grid item in that cell, and also span them."
   }
 
