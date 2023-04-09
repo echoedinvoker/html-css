@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/5-web-design/67-proj-overview/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "5. Web Design Rules and Framework",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "67. Project Overview",
+    "video.length": 6,
+    "time.comsuming": 45,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-09T06:57:35Z",
     "tag": [
-      "css","design"
+      "css","design","overview","project"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512358#content",
+    "description": "Before understanding the design principles and guidelines, it is important to understand the basic HTML and CSS structure of the project."
   }
 
