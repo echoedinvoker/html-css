@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/5-web-design/69-typography/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "5. Web Design Rules and Framework",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "69. Web Design Rules #1: Typography",
+    "video.length": 16,
+    "time.comsuming": 35,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-10T08:14:46Z",
     "tag": [
-      "css","design"
+      "css","design","typography","concept"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512364#content",
+    "description": "Describe the rules that need to be followed to make the text more aesthetically pleasing."
   }
 
