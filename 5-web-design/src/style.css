@@ -17,6 +17,8 @@ FONT SIZE SYSTEM (px)
 /* ------------------------ */
 body {
   font-family: 'inter', sans-serif;
+  color: #343a40;
+  border-bottom: 8px solid #087f5b;
 }
 
 .container {
@@ -147,4 +149,38 @@ h3 {
 footer {
   font-size: 12px;
   margin-bottom: 48px;
+  color: #495057;
+}
+
+.btn:link,
+.btn:visited {
+  background-color: #087f5b;
+  color: #fff;
+  /* padding: 16px 32px; */
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  display: inline-block;
+  /* font-size: 18px; */
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #099268;
+}
+
+.btn--big {
+  font-size: 18px;
+  padding: 16px 32px;
+}
+
+.btn--small {
+  font-size: 14px;
+  padding: 8px 16px;
+}
+
+.testimonial-section {
+  background-color: #087f5b;
+  color: #fff;
+  padding: 18px;
 }

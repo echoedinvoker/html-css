@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/5-web-design/71-colors/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "5. Web Design Rules and Framework",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "71. Web Design Rules #2: Colors",
+    "video.length": 14,
+    "time.comsuming": 33,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-10T20:56:26Z",
     "tag": [
-      "css","design"
+      "css","design","color","concept"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512370#content",
+    "description": "Explain the second rule of web design - color."
   }
 
