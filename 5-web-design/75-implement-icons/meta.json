@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "html-css",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/html-css/blob/master/5-web-design/75-implement-icons/memo.md",
     "course": "Build Responsive Real-World Websites with HTML and CSS",
     "chapter": "5. Web Design Rules and Framework",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "75. Implementing Icons",
+    "video.length": 22,
+    "time.comsuming": 105,
     "lecturer.name.first": "Jonas",
     "lecturer.name.last": "Schmedtmann",
-    "register.time": "",
+    "register.time": "2023-04-12T06:25:18Z",
     "tag": [
-      "css","design"
+      "css","design","icon","implement","project","practice"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512382#content",
+    "description": "Practical application of the guidelines for the use of icons to the project."
   }
 
