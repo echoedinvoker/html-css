@@ -1,4 +1,4 @@
-## ** Figure and Card**
+## **Figure and Card**
 
 ![Alt figure and card](pic/01.jpg)
 
